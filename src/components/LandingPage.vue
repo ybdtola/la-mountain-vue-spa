@@ -8,7 +8,7 @@
             <div class="block">
                 <h1 >01.<span>HISTORY</span></h1>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa eum, est, doloremque animi tempora reprehenderit dignissimos amet laudantium officiis a aperiam odio illum. Quidem aliquid non totam recusandae esse, laborum odio vero, dolorum, perspiciatis officia voluptas sed reiciendis. Commodi aliquid tempore blanditiis in facere alias debitis libero expedita officia architecto?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ante viverra, rutrum erat rutrum, consectetur mi. Proin at maximus est. Nullam purus ex, iaculis sed erat sed, blandit tincidunt quam. Cras scelerisque id quam sed dignissim Pellentesque urna nunc, gravida quis hendrerit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
         </section>
         <div class="carousel">
             <Carousel />
@@ -18,7 +18,7 @@
         <section class="climb-text">
             <div class="block">
                 <h1 >02.<span>CLIMB</span></h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa eum, est, doloremque animi tempora reprehenderit dignissimos amet laudantium officiis a.</p>
+                <p>Cras scelerisque id quam sed dignissim Pellentesque urna nunc, gravida quis hendrerit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
             </div>
         </section>
     </div>
