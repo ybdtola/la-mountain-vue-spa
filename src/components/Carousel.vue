@@ -20,7 +20,7 @@
 <script >
 import { VueperSlides, VueperSlide } from 'vueperslides'
 import 'vueperslides/dist/vueperslides.css'
-// import 'vueperslides/dist/styles.css'
+import '../assets/styles.css'
 import {reactive} from 'vue'
 
 export default{
