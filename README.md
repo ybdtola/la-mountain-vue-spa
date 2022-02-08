@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### Deployed on netlify
+```
+https://lamountain.netlify.app/
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
