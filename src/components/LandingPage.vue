@@ -171,11 +171,13 @@ export default{
 <style lang="scss" scoped>
     .hero-banner{
       background: url("../assets/hero-banner.png") top/cover no-repeat, url("../assets/hero-text.png") top/cover no-repeat;
-      min-height: 50vw;
+      min-height: 100vh;
+      height: 100vh;
       width: 100%;
     .hero-text{
       background: url("../assets/hero-text.png") top/cover no-repeat;
-      min-height: 50vw;
+      min-height: 100vh;
+      height: 100vh;
       width: 100%;
     }
     }
@@ -443,6 +445,7 @@ export default{
                     ul{
                         // display: block!important;
                         // z-index:5;
+
                     }
                 }
             }

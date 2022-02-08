@@ -20,6 +20,7 @@
 <script >
 import { VueperSlides, VueperSlide } from 'vueperslides'
 import 'vueperslides/dist/vueperslides.css'
+import 'vueperslides/dist/override1.css'
 import {reactive} from 'vue'
 
 export default{

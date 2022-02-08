@@ -162,7 +162,21 @@ import {onMounted, ref} from 'vue'
      ul{
       width: 200px;
       text-align: right;
+      li{
+        a{
+          // font-size: 10px;
+        }
+      }
      }
+    }
+  }
+  #nav.scrolled{
+    .navbar{
+      .logo{
+        .la{
+          display: none;
+        }
+      }
     }
   }
 </style>
