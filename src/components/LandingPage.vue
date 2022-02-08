@@ -171,13 +171,11 @@ export default{
 <style lang="scss" scoped>
     .hero-banner{
       background: url("../assets/hero-banner.png") top/cover no-repeat, url("../assets/hero-text.png") top/cover no-repeat;
-      min-height: 100vh;
-      height: 100vh;
+      min-height: 50vw;
       width: 100%;
     .hero-text{
       background: url("../assets/hero-text.png") top/cover no-repeat;
-      min-height: 100vh;
-      height: 100vh;
+      min-height: 50vw;
       width: 100%;
     }
     }
@@ -438,7 +436,18 @@ export default{
 }
     
         @media screen and (max-width: 425px) {
-           
+            .hero-banner{
+                    background: url("../assets/hero-banner.png") top/cover no-repeat, url("../assets/hero-text.png") top/cover no-repeat;
+                    min-height: 100vh;
+                    height: 100vh;
+                    width: 100%;
+                    .hero-text{
+                    background: url("../assets/hero-text.png") top/cover no-repeat;
+                    min-height: 100vh;
+                    height: 100vh;
+                    width: 100%;
+                    }
+                    }
 
             .tab-menu{
                 .menu-flex{
