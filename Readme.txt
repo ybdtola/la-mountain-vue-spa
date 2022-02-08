@@ -1,0 +1,1 @@
+Project is hosted on netlify @ https://lamountain.netlify.app/
