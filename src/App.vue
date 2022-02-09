@@ -169,7 +169,6 @@ import {onMounted, ref} from 'vue'
       }
      }
     }
-  }
   #nav.scrolled{
     .navbar{
       .logo{
@@ -178,5 +177,6 @@ import {onMounted, ref} from 'vue'
         }
       }
     }
+  }
   }
 </style>
