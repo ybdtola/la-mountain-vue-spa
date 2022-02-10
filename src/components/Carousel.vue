@@ -9,7 +9,7 @@
         :gap="1"
         :slide-ratio="1 / 7"
         :dragging-distance="200"
-        :breakpoints="{ 800: { visibleSlides: 3, slideMultiple: 3, slideRatio: 1/4 } }"
+        :breakpoints="{ 800: { visibleSlides: 3, slideMultiple: 3, slideRatio: 1/4 },  425: { visibleSlides: 1, slideMultiple:1, slideRatio: 2/4 } }"
         >
         <vueper-slide v-for="(slide, i) in state.slides" :key="i" :image="slide.image" />
         </vueper-slides>

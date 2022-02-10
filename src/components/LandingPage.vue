@@ -449,6 +449,10 @@ export default{
                     }
                     }
 
+                    .carousel{
+                        height: 210px!important;
+                    }
+
             .tab-menu{
                 .menu-flex{
                     ul{

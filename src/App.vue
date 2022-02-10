@@ -55,6 +55,7 @@ import {onMounted, ref} from 'vue'
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
 }
 #app {
   font-family: var(--font-Lato);
