@@ -450,7 +450,7 @@ export default{
                     }
 
                     .carousel{
-                        height: 210px!important;
+                        height: 230px!important;
                     }
 
             .tab-menu{
